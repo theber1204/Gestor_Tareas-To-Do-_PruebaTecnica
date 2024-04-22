@@ -9,7 +9,7 @@
 >3. Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio
 
 ```bash
-$ Git Clone https://github.com/theber1204/Gestor-de-Tareas-To-Do
+$ Git Clone https://github.com/theber1204/Gestor_Tareas-To-Do_PruebaTecnica
 ```
 
 
