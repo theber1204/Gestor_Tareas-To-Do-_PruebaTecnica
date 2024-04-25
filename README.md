@@ -1,5 +1,5 @@
 
-# Gestor de Tareas (To-Do)_PruebaTecnica
+# Gestor de Tareas (To-Do)
 
 
 **Paso 1: Clonar el repositorio desde GitHub**
